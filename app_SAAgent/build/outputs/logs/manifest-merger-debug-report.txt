@@ -1,0 +1,186 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:2:1-45:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/7b82d92baf1372855e586ac206824446/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/84c23239e7bb62dab00a0fc4083e5720/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/17b79fd193e35d6094292c2ca8466f7e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/aa2d71855b6a08b1490de2049a6adf7d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/bddc6bd1cc982687afda88fb212c49e6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/4e1ef2a89c8744799c6354da65290ed3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/d5d61afe73cb558110d366260f2968ae/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/5d49fed26a5d9247fd25d7e4445b31db/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/367adb5c7bff50bf72fecb1f8217b6ed/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:3:5-80
+		INJECTED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml
+		INJECTED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:6:22-71
+uses-permission#com.samsung.accessory.permission.ACCESSORY_FRAMEWORK
+ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:7:5-92
+	android:name
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:7:22-89
+uses-permission#com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY
+ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:8:5-117
+	android:name
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:8:22-114
+uses-permission#com.samsung.WATCH_APP_TYPE.Companion
+ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:9:22-73
+uses-permission#com.samsung.wmanager.ENABLE_NOTIFICATION
+ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:10:22-77
+application
+ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:12:5-43:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/7b82d92baf1372855e586ac206824446/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/7b82d92baf1372855e586ac206824446/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/84c23239e7bb62dab00a0fc4083e5720/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/84c23239e7bb62dab00a0fc4083e5720/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/17b79fd193e35d6094292c2ca8466f7e/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/17b79fd193e35d6094292c2ca8466f7e/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/aa2d71855b6a08b1490de2049a6adf7d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/aa2d71855b6a08b1490de2049a6adf7d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/bddc6bd1cc982687afda88fb212c49e6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/bddc6bd1cc982687afda88fb212c49e6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/4e1ef2a89c8744799c6354da65290ed3/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/4e1ef2a89c8744799c6354da65290ed3/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/d5d61afe73cb558110d366260f2968ae/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/d5d61afe73cb558110d366260f2968ae/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/5d49fed26a5d9247fd25d7e4445b31db/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/5d49fed26a5d9247fd25d7e4445b31db/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/367adb5c7bff50bf72fecb1f8217b6ed/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/367adb5c7bff50bf72fecb1f8217b6ed/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:13:9-35
+service#com.samsung.android.sdk.accessory.example.helloaccessory.provider.ProviderService
+ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:17:9-117
+	android:name
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:17:18-114
+receiver#com.samsung.android.sdk.accessory.RegisterUponInstallReceiver
+ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:19:9-23:20
+	android:name
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:19:19-95
+intent-filter#action:name:com.samsung.accessory.action.REGISTER_AGENT
+ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:20:13-22:29
+action#com.samsung.accessory.action.REGISTER_AGENT
+ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:21:17-86
+	android:name
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:21:25-83
+receiver#com.samsung.android.sdk.accessory.ServiceConnectionIndicationBroadcastReceiver
+ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:24:9-28:20
+	android:name
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:24:19-112
+intent-filter#action:name:com.samsung.accessory.action.SERVICE_CONNECTION_REQUESTED
+ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:25:13-27:29
+action#com.samsung.accessory.action.SERVICE_CONNECTION_REQUESTED
+ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:26:17-100
+	android:name
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:26:25-97
+meta-data#AccessoryServicesLocation
+ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:30:9-32:62
+	android:value
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:32:13-59
+	android:name
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:31:13-53
+activity#com.samsung.android.sdk.accessory.example.helloaccessory.provider.ProviderActivity
+ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:34:9-42:20
+	android:screenOrientation
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:37:13-49
+	android:launchMode
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:36:13-48
+	android:name
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:35:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml:40:27-74
+uses-sdk
+INJECTED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml
+INJECTED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/7b82d92baf1372855e586ac206824446/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/7b82d92baf1372855e586ac206824446/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/84c23239e7bb62dab00a0fc4083e5720/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/84c23239e7bb62dab00a0fc4083e5720/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/17b79fd193e35d6094292c2ca8466f7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/17b79fd193e35d6094292c2ca8466f7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/aa2d71855b6a08b1490de2049a6adf7d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/aa2d71855b6a08b1490de2049a6adf7d/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/bddc6bd1cc982687afda88fb212c49e6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/bddc6bd1cc982687afda88fb212c49e6/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/4e1ef2a89c8744799c6354da65290ed3/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/4e1ef2a89c8744799c6354da65290ed3/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/d5d61afe73cb558110d366260f2968ae/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/d5d61afe73cb558110d366260f2968ae/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/5d49fed26a5d9247fd25d7e4445b31db/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/5d49fed26a5d9247fd25d7e4445b31db/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/367adb5c7bff50bf72fecb1f8217b6ed/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/367adb5c7bff50bf72fecb1f8217b6ed/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml
+INJECTED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/7b82d92baf1372855e586ac206824446/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml
+		INJECTED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml
+		ADDED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml
+		INJECTED from /Users/joohee/Project/Slowee/Slowee_Com_Phone/app_SAAgent/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/7b82d92baf1372855e586ac206824446/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/84c23239e7bb62dab00a0fc4083e5720/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/84c23239e7bb62dab00a0fc4083e5720/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/17b79fd193e35d6094292c2ca8466f7e/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/17b79fd193e35d6094292c2ca8466f7e/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/aa2d71855b6a08b1490de2049a6adf7d/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/aa2d71855b6a08b1490de2049a6adf7d/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/bddc6bd1cc982687afda88fb212c49e6/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/bddc6bd1cc982687afda88fb212c49e6/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/4e1ef2a89c8744799c6354da65290ed3/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/4e1ef2a89c8744799c6354da65290ed3/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/d5d61afe73cb558110d366260f2968ae/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/d5d61afe73cb558110d366260f2968ae/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/5d49fed26a5d9247fd25d7e4445b31db/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/5d49fed26a5d9247fd25d7e4445b31db/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/367adb5c7bff50bf72fecb1f8217b6ed/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/367adb5c7bff50bf72fecb1f8217b6ed/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/7b82d92baf1372855e586ac206824446/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/joohee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/7b82d92baf1372855e586ac206824446/AndroidManifest.xml:26:9-47
